@@ -1,5 +1,9 @@
 # Open Source Education Path
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 **Welcome to the intro repository!**
 
 This repository hosts comprehensive educational content for people who want to learn to contribute to open source projects and for those who want to become project maintainers.
